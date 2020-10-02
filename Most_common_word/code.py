@@ -1,4 +1,4 @@
- class Sol:
+ class Answer:
     def common_count(self, para:str, ban:List[str])->str:
 
         banned=set(ban)
