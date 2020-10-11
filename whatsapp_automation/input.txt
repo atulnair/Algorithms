@@ -1,0 +1,4 @@
+STEPS TO FOLLOW
+1- Type the message you want to sent in the specified area
+2- Give the path to your csv file which contains your mobile numbers
+3- Run the code
