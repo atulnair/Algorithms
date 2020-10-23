@@ -1,1 +1,3 @@
-element(4) present in the array at position 2
+Enter the element you want to find
+>> 4
+element 4 is present at 3 rd position
