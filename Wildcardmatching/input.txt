@@ -1,0 +1,23 @@
+Enter a pattern: a*b?
+Enter a string (enter q to quit): 
+abcdefbh
+abcdefbh matches the pattern: a*b?
+
+Enter a string (enter q to quit): 
+abf
+abf matches the pattern: a*b?
+
+Enter a string (enter q to quit): 
+acdb
+acdb doesn't match with the given pattern: a*b?
+
+Enter a string (enter q to quit): 
+ab
+ab doesn't match with the given pattern: a*b?
+
+Enter a string (enter q to quit): 
+abfbfbfbf
+abfbfbfbf matches the pattern: a*b?
+
+Enter a string (enter q to quit): 
+q
